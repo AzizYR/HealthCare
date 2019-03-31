@@ -1,0 +1,22 @@
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <!--<script src="jquery-2.1.4.js"></script>-->
+  <!--<script src="home/push.js"></script>-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.9/push.min.js"></script>
+  <!--<link rel="stylesheet" type="text/css" href="home/push.js/styles.css">-->
+  </head>
+  <body>
+  <script>
+      Notification.requestPermission();
+      Push.create("Next Appointment:",{
+          body: "",
+            timeout: 5000,
+            onClick: function () {
+                <!--console.log(this);-->
+            }
+        });
+
+  </script>
+  </body>
+</html>

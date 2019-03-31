@@ -1,0 +1,162 @@
+Anxiety
+Benign tumor of the adrenal medulla,Excessive feeling of fear,Depression
+Excessive feeling of fear
+Depression
++.0
+
+nausea
+maybe Food poisoning, Stomach flu
+check if Stomach flu ,Motion sickness
+i guess Sick headache,Food allergy
+do you have Motion sickness,Food allergy
+okay maybe , Lactase deficiency,Headache
+Food intolerance,Motion sickness
+AI says , Inflammation of the appendix
+Gall stones
+Positional vertigo
+Concussion , Motion sickness
+Bowel obstruction
+Hypersensitivity reaction
+Food allergy
+Drug side effect
+Inflammation of the liver
+Headache
+Auditory vertigo
+Cluster headache
+Vestibular failure
+Poisoning
+
+
+headache 
+Inflammation of paranasal sinuses,Cluster headache
+Flu,cold,inflamation of paranasal
+Middle ear infection
+Cold
+Tooth abscess
+Hay fever
+Concussion
+Green cataract
+Sleeping disorder
+Lack of blood
+Inflammation of the brain covering membranes
+High blood pressure
+High blood pressure crisis
+Giant cell arteritis
+Inflammation of the nose and throat
+
+
+
+Cough
+thats Cold?
+is it Flu?
+woah ,consult for Chronic obstructive lung disease
+Hay fever
+Inflammation of the nose and throat
+Flu-related rhinitis
+Inflammation of paranasal sinuses
+Drug side effect
+Foreign object in the airways
+Systemic disorder with granulomatous inflammation
+Fluid accumulation in the chest cavity
+Whooping cough
+
+
+Fever
+Cold
+Flu
+Acute inflammation of lung
+Stomach flu
+Infection of kidney pelvis
+Inflammation of the nose and throat
+Inflammation of the bronchi
+Abscess of the tonsils
+Middle ear infection
+Kissing disease
+Inflammation of the bone marrow
+Scarlet fever
+Systemic disorder with granulomatous inflammation
+Urinary tract infection
+Inflammation of the brain covering membranes
+Blood poisoning
+Inflammation of the pericardium
+Inflammation of a diverticulum
+Listeria infection
+Inflammation of the tonsils
+Inflammation of the appendix
+Food poisoning
+Inflammation of the pleura
+Joint infection
+Toxoplasmosis infection
+Inflammation of heart muscle
+Infection caused by corynebacterium diphtheriae
+
+
+Bone Fracture
+Overactivity of the parathyroid glands
+
+Chest pain
+Strain of the regional supporting tissue
+Reflux disease
+Coronary heart disease
+Inflammation of the pleura
+Heart attack
+Excessive feeling of fear
+Broken rib
+Shingles
+Inflammation of heart muscle
+Flu
+Inflammatory disease of the airways
+Inflammation of the stomach
+Accident injury
+Diaphragmatic hernia
+Obstruction of a pulmonary artery
+Lung collapse
+Acute inflammation of lung
+Inflammation of the pericardium
+Dissection of the aorta
+Aneurysm of the main artery
+
+
+
+Diarrhoea
+Loose watery stools
+Food poisoning
+Spastic colon
+Lactase deficiency
+Stomach flu
+Food intolerance
+Gluten intolerance
+Drug side effect
+Poisoning
+Chronic inflammatory bowel disease of colon
+Crohn's disease
+Pancreas insufficiency
+
+
+
+
+
+Chemical eye burn,Foreign object in the eye
+
+Foreign object in the eye
+Eyelid inflammation
+Stye
+
+
+vomiting
+Food poisoning
+Stomach flu
+Sick headache
+Poisoning
+Inflammation of the appendix
+Motion sickness
+Gall stones
+Inflammation of the stomach
+Positional vertigo
+Drug side effect
+Hypersensitivity reaction
+Food allergy
+
+
+headache and anxiety
+Inflammation of paranasal sinuses,Food poisoning,Drug side effect

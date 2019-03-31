@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <div class="table-responsive">
+
+      <table class="table table-striped">
+
+        <tbody>
+
+          {% for x in requestlist %}
+            <tr>
+              <td>{{ x }}</td>
+            </tr>
+          {% endfor %}
+
+          {% for o in responselist %}
+            <tr>
+              <td>{{ o }}</td>
+            </tr>
+          {% endfor %}
+
+        </tbody>
+
+      </table>
+
+    </div>
+
+
+  </body>
+</html>
